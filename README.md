@@ -129,7 +129,7 @@ No external libraries are required.
 
 ## Author
 
-Created by **ompc nsti** as a Python OOP practice project.
+Created by **Omkar koli** as a Python OOP practice project.
 
 ---
 
