@@ -115,7 +115,6 @@ cd python-banking-system-oop
 * Save data to files or a database
 * Add exception handling
 * Create a graphical user interface
-* Write unit tests
 
 ---
 
