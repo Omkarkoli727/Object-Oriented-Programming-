@@ -72,7 +72,7 @@ You can import the `Bank_Account` and `ATM` classes into any Python script or in
 ```text
 Bank Account Created...
 Account Number : 1234567890
-Holder Name : John Doe
+Holder Name : Omkar koli
 Account IFSC Code : SBIN0001234
 Balance = 10000
 
